@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "wordpress": {
+      "serverUrl": "https://mcp.aipuffer.org/mcp"
+    }
+  }
+}

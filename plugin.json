@@ -1,0 +1,26 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "ai-puffer",
+  "displayName": "AI Puffer",
+  "version": "0.1.0",
+  "description": "Manage your WordPress website with AI: create drafts, update WooCommerce products, improve SEO and work with supported page builders.",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "Show me an overview of my WordPress website.",
+    "Draft a welcome post for my website without publishing it.",
+    "Find five products whose descriptions could be improved."
+  ],
+  "author": {
+    "name": "AI Puffer",
+    "url": "https://aipower.org"
+  },
+  "homepage": "https://aipower.org/docs/",
+  "keywords": [
+    "wordpress",
+    "woocommerce",
+    "seo",
+    "website",
+    "content"
+  ],
+  "repository": "https://github.com/aipuffer/antigravity"
+}
